@@ -1,8 +1,8 @@
 # 📊 A Power BI Dashboard for Analyzing Super Store Sales Data
-Overview
+Overview : 
 This project provides a data-driven sales analysis for a Super Store, offering insights into sales performance, profit trends, and customer behavior. The dashboard helps businesses understand sales by region, category, segment, payment mode, and shipping mode, making it easier to make informed decisions.
 
-Dashboard Features
+Dashboard Features : 
 ✅ Sales Performance Metrics: Total Sales, Quantity Sold, Profit, and Average Delivery Time
 ✅ Year-over-Year Trends: Monthly Sales & Profit comparison for 2019 vs. 2020
 ✅ Customer Segmentation: Sales distribution across different customer segments (Corporate, Home Office, Consumer)
@@ -12,11 +12,11 @@ Dashboard Features
 ✅ Interactive Filters: Users can filter data by region to get localized insights
 
 
---Technologies Used
+--Technologies Used : 
   Power BI for data visualization
   Excel/CSV for data storage
 
---Insights Gained from the Dashboard
+--Insights Gained from the Dashboard : 
   📈 Sales have shown an increasing trend over the years.
   🌍 The West region contributes the highest sales (33%), while South has the lowest (16%).
   💳 Most customers prefer Cash on Delivery (43%), followed by Online Payments (35%).
